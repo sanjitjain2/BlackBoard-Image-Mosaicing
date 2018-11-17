@@ -30,6 +30,15 @@ How to run the script:
 ## Theory on Image Mosaicing
 Image stitching or photo stitching is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image.
 
+Consider a point x = (u,v,1) in one image and
+x’=(u’,v’,1) in another image
+A homography is a 3 by 3 matrix M.
+
+The homography relates the pixel co-ordinates in the two images if x’ = M * x.
+When applied to every pixel the new image is a warped version of the original image
+
+## Our Obervations
+
 ## Our Implementation
 
 ### Finding Homography Matrix of two images
