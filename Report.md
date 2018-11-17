@@ -7,8 +7,8 @@
 How to run the script:
 `python mosiac.py [run-type]`
 > run-type = 0 to use predefined points for stitching images
+
 > run-type = 1 to manually select 8 points to stitch images
-> 
 **Images that are to be stitched:**
 ![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m0.jpg)
 
