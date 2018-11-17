@@ -10,21 +10,21 @@ How to run the script:
 > run-type = 1 to manually select 8 points to stitch images
 > 
 **Images that are to be stitched:**
-![image](/home/sanjit/acads/mpa/MPAProject/m0.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m0.jpg)
 
-![image](/home/sanjit/acads/mpa/MPAProject/m1.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m1.jpg)
 
-![image](/home/sanjit/acads/mpa/MPAProject/m2.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m2.jpg)
 
-![image](/home/sanjit/acads/mpa/MPAProject/m3.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m3.jpg)
 
-![image](/home/sanjit/acads/mpa/MPAProject/m4.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m4.jpg)
 
-![image](/home/sanjit/acads/mpa/MPAProject/m5.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/m5.jpg)
 
 **Our Result after stitching images:**
 
-![image](/home/sanjit/acads/mpa/MPAProject/result012345.jpg)
+![image](https://github.com/sanjitjain2/BlackBoard-Image-Mosaicing/blob/master/result012345.jpg)
 
 ## Theory on Image Mosaicing
 Image stitching or photo stitching is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image.
