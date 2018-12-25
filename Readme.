@@ -1,8 +1,7 @@
 # Multimedia Processing and Applications
 ## Blackboard Image Mosaicing
-## Project Report by
-* 16UCS169 Sanjit Jain
-* 16UCS075 Harshit Agarwal 
+
+For full report see https://drive.google.com/file/d/10x7mOWmsJxyNgcug6k2EsdZMnPhupt19/view?usp=sharing
 
 How to run the script:
 `python mosiac.py [run-type]`
